@@ -1,7 +1,7 @@
 {
 	"name": "mage2pro/1c"
 	,"version": "0.0.1"
-	,"description": "Модуль Magento 2 для интеграции с 1С:Предприятие / The «1C:Enterprise» extension for Magento 2"
+	,"description": "1C:Enterprise (1С:Предприятие) integration with Magento 2"
 	,"type": "magento2-module"
 	,"homepage": "https://mage2.pro/c/extensions/1c"
 	,"license": "proprietary"
