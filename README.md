@@ -1,4 +1,4 @@
-The extension integrates your Magento 2 store with the **[1C:Enterprise](https://1c-dn.com)** ERP / CRM software.  
+The extension integrates your Magento 2 based webstore with the **[1C:Enterprise](https://1c-dn.com)** ERP / CRM software.  
 Этот модуль позволит Вашему работающему на Magento 2 интернет-магазину обмениваться данными (синхронизироваться) с различыми конфигурациями для платформы 1С:Предприятие (в частности, с 1С:Управление торговлей).  
 
 
